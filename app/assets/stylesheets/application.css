@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+
+html {
+    background:
+        linear-gradient(#F3D2CF, transparent),
+        linear-gradient(to top left, #7A87A1, transparent),
+        linear-gradient(to top right, blue, transparent);
+    	background-blend-mode: lighten;
+}
+
